@@ -1,0 +1,15 @@
+*.pyc
+*.log
+*.zip
+*.db
+*.swp
+__pycache__/
+.env
+*.iml
+.DS_Store
+*.bak
+
+# Ne pas versionner les modules natifs
+addons/
+postgres/
+config/odoo.conf
